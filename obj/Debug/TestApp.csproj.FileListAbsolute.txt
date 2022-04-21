@@ -1,0 +1,15 @@
+E:\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+E:\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TestApp\bin\Debug\TestApp.dll
+E:\TestApp\bin\Debug\TestApp.pdb
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\TestApp\bin\Debug\WebDriver.dll
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\TestApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+E:\TestApp\obj\Debug\TestApp.dll
+E:\TestApp\obj\Debug\TestApp.pdb

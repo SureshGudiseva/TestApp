@@ -1,0 +1,6 @@
+E:\TestApp\.vs\TestApp\v16\lut\0\b\TestApp_Main\bin\Debug\TestApp_Main.exe.config
+E:\TestApp\.vs\TestApp\v16\lut\0\b\TestApp_Main\bin\Debug\TestApp_Main.exe
+E:\TestApp\.vs\TestApp\v16\lut\0\i\TestApp_Main\Debug\TestApp_Main.csprojAssemblyReference.cache
+E:\TestApp\.vs\TestApp\v16\lut\0\i\TestApp_Main\Debug\TestApp_Main.csproj.CoreCompileInputs.cache
+E:\TestApp\.vs\TestApp\v16\lut\0\i\TestApp_Main\Debug\TestApp_Main.csproj.CopyComplete
+E:\TestApp\.vs\TestApp\v16\lut\0\i\TestApp_Main\Debug\TestApp_Main.exe
